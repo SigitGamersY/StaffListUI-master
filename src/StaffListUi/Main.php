@@ -1,6 +1,6 @@
 <?php
 
-namespace StaffListUI;
+namespace StaffListUi;
 
 use pocketmine\Server;
 use pocketmine\Player;
