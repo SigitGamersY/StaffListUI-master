@@ -9,3 +9,4 @@ commands:
     usage: /staff
     aliases: [sui]
     description: "§o§6See StaffList in your Server"
+
