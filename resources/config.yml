@@ -1,0 +1,18 @@
+---
+##########################################
+#Settings StaffListUI
+##########################################
+
+#Gunakan "§" atau "&" untuk mewarnai Text
+#Gunakan "\n" untuk lanjut Line
+
+#Form StaffListUI Title
+Staff-title: "§l§d-=-=-=§l§aStaffListUI§d=-=-=-"
+
+#Form StaffListUI Info
+Staff-info: "§f Edit di config.yml"
+
+#Form StaffListUI Kembali
+Kembali: " §l§cKembali\n§rTap to Exit"
+#
+...
