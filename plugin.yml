@@ -2,7 +2,7 @@ name: StaffListUI-master
 author: SigitGamersY
 version: 1.0.0 
 api: [3.0.0, 4.0.0]
-main: StaffListUI\Main
+main: StaffListUi\Main
 
 commands:
   staff:
