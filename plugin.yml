@@ -1,0 +1,11 @@
+name: StaffListUI-master
+author: SigitGamersY
+version: 1.0.0 
+api: [3.0.0, 4.0.0]
+main: StaffListUI\Main
+
+commands:
+  staff:
+    usage: /staff
+    aliases: [sui]
+    description: "§o§6See StaffList in your Server"
