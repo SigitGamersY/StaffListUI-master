@@ -54,7 +54,7 @@ class Main extends PluginBase implements Listener {
                return true;
            }             
            switch($result){
-               case 4:
+               case 0:
                    $sender->addTitle("§l§aThank You After See!\n§r§eStaffList in My Server..");
                break;
                }
