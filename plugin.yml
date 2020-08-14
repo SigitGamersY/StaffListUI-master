@@ -2,7 +2,8 @@ name: StaffListUI-master
 author: SigitGamersY
 version: 1.0.0 
 api: [3.0.0, 4.0.0]
-main: StaffListUi\Main
+main: StaffListUI\Main
+description: Plugin StaffListUI by SigitGamersY. #NoobDevelopment
 
 commands:
   staff:
